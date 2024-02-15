@@ -1,0 +1,8 @@
+// prettier-ignore
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "jsx": "react",
+    "skipLibCheck": true
+  }
+}
